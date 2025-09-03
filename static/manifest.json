@@ -1,0 +1,85 @@
+{
+  "name": "SvelteKit Webshop",
+  "short_name": "Webshop",
+  "description": "Modern e-commerce webshop built with SvelteKit",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en-US",
+  "dir": "ltr",
+  "categories": ["shopping", "lifestyle"],
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "16x16 32x32 48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/img/tshirt.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/img/tshirt.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Browse Products",
+      "short_name": "Products",
+      "description": "Browse our complete product catalog",
+      "url": "/products",
+      "icons": [
+        {
+          "src": "/img/tshirt.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "View Favorites",
+      "short_name": "Favorites",
+      "description": "Check your saved products",
+      "url": "/favorites",
+      "icons": [
+        {
+          "src": "/img/tshirt.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Shopping Cart",
+      "short_name": "Cart",
+      "description": "Review your shopping cart",
+      "url": "/cart",
+      "icons": [
+        {
+          "src": "/img/tshirt.png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/img/tshirt.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/img/tshirt.png",
+      "sizes": "750x1334",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
+}
