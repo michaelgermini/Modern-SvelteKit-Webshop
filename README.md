@@ -16,8 +16,79 @@
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Homepage
+<div align="center">
+  <img src="./static/screenshots/homepage.png" alt="Homepage - Modern product showcase with featured items" width="800"/>
+  <p><em>Modern homepage with hero section, featured products, and category navigation</em></p>
+</div>
+
+### 🛍️ Product Catalog
+<div align="center">
+  <img src="./static/screenshots/products.png" alt="Product catalog with advanced filtering and search" width="800"/>
+  <p><em>Advanced product catalog with filtering, search, sorting, and pagination capabilities</em></p>
+</div>
+
+### 📦 Product Details
+<div align="center">
+  <img src="./static/screenshots/product-detail.png" alt="Product detail page with reviews and add to cart" width="800"/>
+  <p><em>Detailed product page with image gallery, customer reviews, ratings, and purchase options</em></p>
+</div>
+
+### 🛒 Shopping Cart
+<div align="center">
+  <img src="./static/screenshots/cart.png" alt="Shopping cart with item management and checkout" width="800"/>
+  <p><em>Interactive shopping cart with quantity controls, price calculations, and secure checkout</em></p>
+</div>
+
+### 🌙 Dark Mode Interface
+<div align="center">
+  <img src="./static/screenshots/dark-mode.png" alt="Dark mode interface showcasing modern design" width="800"/>
+  <p><em>Beautiful dark mode interface with automatic theme switching and modern aesthetics</em></p>
+</div>
+
+### 📱 Mobile Responsive Design
+<div align="center">
+  <img src="./static/screenshots/mobile.png" alt="Mobile responsive design optimized for smartphones" width="300"/>
+  <p><em>Fully responsive design optimized for mobile devices with touch-friendly interface</em></p>
+</div>
+
+### 👤 User Profile
+<div align="center">
+  <img src="./static/screenshots/my_profile.png" alt="User profile page with account management" width="800"/>
+  <p><em>User profile page with account settings, order history, and personal information</em></p>
+</div>
+
+### 🔐 Authentication
+<div align="center">
+  <img src="./static/screenshots/login.png" alt="Login and registration interface" width="600"/>
+  <p><em>Secure authentication interface with login and registration forms</em></p>
+</div>
+
+### ⚙️ Admin Dashboard
+<div align="center">
+  <img src="./static/screenshots/admin_dash.png" alt="Admin dashboard for product and order management" width="800"/>
+  <p><em>Comprehensive admin dashboard for managing products, orders, and customers</em></p>
+</div>
+
+### ⌨️ Keyboard Shortcuts
+<div align="center">
+  <img src="./static/screenshots/keyboard_shorcut.png" alt="Keyboard shortcuts guide and interface" width="700"/>
+  <p><em>Keyboard shortcuts guide for enhanced accessibility and productivity</em></p>
+</div>
+
+### ⭐ Featured Products
+<div align="center">
+  <img src="./static/screenshots/home_product.png" alt="Featured products showcase on homepage" width="800"/>
+  <p><em>Featured products section highlighting popular and trending items</em></p>
+</div>
+
+---
+
 ## 📋 Table of Contents
 
+- [📸 Screenshots](#-screenshots)
 - [✨ Features](#-features)
 - [🛠️ Tech Stack](#-tech-stack)
 - [🚀 Quick Start](#-quick-start)
