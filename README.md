@@ -10,7 +10,7 @@
 
 **A production-ready, modern e-commerce platform built with cutting-edge web technologies**
 
-[🚀 Live Demo](https://modern-sveltekit-webshop.vercel.app/) • [📖 Documentation](#-documentation) • [🛠️ API Reference](#-api-reference)
+[🚀 Live Demo](https://michaelgermini.github.io/Modern-SvelteKit-Webshop/) • [📖 Documentation](#-documentation) • [🛠️ API Reference](#-api-reference)
 
 </div>
 
